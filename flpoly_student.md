@@ -1,23 +1,23 @@
-## First Name Last Name
+## Michael Cassidy
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Principles of Macroeconomics
 
-- Course 2
+- Law, Public Policy, Negotiation, and Business
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- Statistics 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Studying
 
-- Thing 2
+- Working out at the gym
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Thing 3 as shown in this website <https://tasty.co/>
