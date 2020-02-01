@@ -21,3 +21,12 @@ I am _passionate about_:
 - Working out at the gym
 
 - Thing 3 as shown in this website <https://tasty.co/>
+
+|Prefix|Number|Name|Credits|
+|:---:|:---:|:---:|:---:|
+|**ECO**|**2013**|_Principles of Macroeconomics_|3|
+|**BUL**|**2241**|_Law, Pubic Policy, Negotiation, and Business_|3|
+|**COP**|**2073**|_Introduction to Data Science_|3|
+|**STA**|**2023**|_Statistics 1_|3|
+
+
